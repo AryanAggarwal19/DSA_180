@@ -7,7 +7,7 @@ class Solution
     //Function to sort a linked list of 0s, 1s and 2s.
     Node* segregate(Node *head) {
         
-        // Add code here
+       
         int Count0=0,Count1=0,Count2= 0;
         
         Node *temp= head;

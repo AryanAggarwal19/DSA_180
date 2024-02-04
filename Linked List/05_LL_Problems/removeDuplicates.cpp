@@ -16,7 +16,7 @@ struct Node {
 //Function to remove duplicates from sorted linked list.
 Node *removeDuplicates(Node *head)
 {
- // your code goes here
+
 
  //Method-2 (without using any extra space)
  Node *prev= head, *curr= head->next;

@@ -18,7 +18,7 @@ struct Node {
 //Function to merge two sorted linked list.
 Node* sortedMerge(Node* head1, Node* head2)  
 {  
-    // code here
+   
     
     //Method-2 without taking extra space
     
